@@ -12,13 +12,13 @@ This Ruby script fetches Bob Dylan's discography and album cover art from the Sp
 1. Clone the repository:
 
 ```
-git clone https://github.com/klavo22/bob-dylan-discography.git
+git clone https://github.com/klavo22/bob-dylan-discography-script.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd bob-dylan-discography
+cd bob-dylan-discography-script
 ```
 
 3. Install dependencies:
