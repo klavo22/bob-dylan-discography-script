@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+
+# Ignore Bundler files
+/.bundle
+/vendor/bundle
+
+# Ignore Ruby version manager files
+/.ruby-version
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Gemfile.lock
+Gemfile.lock
